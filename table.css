@@ -1,0 +1,29 @@
+body {
+    width: 60%;
+    padding: 0 20%;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400
+    }
+    
+    #chart {
+    height:70vh;
+    }
+    
+    .container {
+    text-align: center;
+    }
+
+h1 {
+    color: #323266;
+}
+
+h1,h3,h4 {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: "Montserrat", sans-serif; 
+    font-weight: 400;
+}
